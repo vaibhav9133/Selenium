@@ -1,0 +1,7 @@
+Css selector
+1.className=>tagname.className
+2.id=>tagname#id
+3.tagname[attribute='value']
+Xpath=>//tagname[@attribute='Value']
+
+
